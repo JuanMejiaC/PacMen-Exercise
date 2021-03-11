@@ -1,14 +1,14 @@
-# Pacmen
+Pacmen
 
-## Description
+Description
 In this project I am building a pacman game. Once running it will display 2 buttons. Everytime the Add Pacman button is clicked it will create a new pacman. When create the button Start Game is clicked it will start the game.
 	The pacmen bounce on contact with the browser edges. The regular pacmen will change to Thumb Up pacman randomly, when that happens the player will have a moment to capture the pacman that changed by triggering mousedown before it change back to the regular pacman. When a pacman is capture all the pacmen will stand still until the mouse button is release. If a regular pacman is clicked on the game will increase in which the pacmen move across the screen.
 
 
-## How to Run:
+How to Run:
   To run this project download all the files to your local machine and then open the file index.html in a browser.
 
-## Roadmap
+Roadmap
 This project contains the basic logic of the game. I can change the logic or be expanded. With could expand the current logic by adding more functionality and features.
 • Add food for the pacmen.
 •Add roads of mazes.
@@ -17,7 +17,7 @@ This project contains the basic logic of the game. I can change the logic or be 
 • Add new and creative images.
 
 
-## License
+License
 MIT License
 
 Copyright (c) 2021
