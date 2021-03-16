@@ -1,7 +1,7 @@
 # Pacmen
 
 ## Description
-In this project I am building a pacman game. Once running it will display 2 buttons. Everytime the Add Pacman button is clicked it will create a new pacman. When create the button Start Game is clicked it will start the game.
+In this project I am building a pacman game. Once running it will display 2 buttons. Everytime the Add Pacman button is clicked it will create a new pacman. When the button Start Game is clicked it will start the game.
 	The pacmen bounce on contact with the browser edges. The regular pacmen will change to Thumb Up pacman randomly, when that happens the player will have a moment to capture the pacman that changed by triggering mousedown before it change back to the regular pacman. When a pacman is capture all the pacmen will stand still until the mouse button is release. If a regular pacman is clicked on the game will increase in which the pacmen move across the screen.
 
 
